@@ -1,2 +1,6 @@
 # AA_pycharm
- Python learning with coding
+ Python learning 
+
+
+Some .py files to Python coding learning. 
+
